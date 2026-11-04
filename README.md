@@ -4,8 +4,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn
 
 ### An Exploratory Data Analysis of Traffic Congestion and Economic Indicators Across Latin American Cities
 
-**Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn
-
 ## Project Overview
 
 Does higher economic productivity translate into better urban mobility?
