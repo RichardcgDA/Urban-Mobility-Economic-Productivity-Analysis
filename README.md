@@ -1,7 +1,6 @@
 # Urban-Mobility-Economic-Productivity-Analysis
 Python | Pandas | NumPy | Matplotlib | Seaborn
 
-# Urban Mobility & Economic Productivity Analysis 🚦
 
 ### An Exploratory Data Analysis of Traffic Congestion and Economic Indicators Across Latin American Cities
 
